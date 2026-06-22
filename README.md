@@ -1,4 +1,7 @@
-# QiFlow
+<h1>
+  <img src="logo.png" alt="QiFlow logo" height="40" valign="middle" />
+  &nbsp;QiFlow
+</h1>
 
 **A clinician-friendly DMAIC workspace for healthcare QI teams, with an embedded AI coach.**
 
